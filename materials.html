@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beyond the Edge — Materials</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="wrap">
+      <img src="assets/beyond.jpg" alt="Beyond the Edge">
+      <div>
+        <h1>BEYOND THE EDGE</h1>
+        <p>Slides, notebooks & datasets</p>
+      </div>
+    </div>
+  </header>
+  <nav class="nav">
+    <a href="index.html">Home</a>
+    <a href="schedule.html">Schedule</a>
+    <a href="speakers.html">Speakers</a>
+    <a class="active" href="materials.html">Materials</a>
+  </nav>
+  <main class="container">
+    <section class="card">
+      <h2>Downloadables</h2>
+      <ul>
+        <li><a href="materials/slides-template.pptx">Slides template (PPTX)</a></li>
+        <li><a href="materials/notebook.ipynb">Example notebook</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer class="footer">© <span id="y"></span> Beyond the Edge</footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
