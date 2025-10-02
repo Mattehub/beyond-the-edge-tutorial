@@ -17,3 +17,9 @@ h2{margin:6px 0 12px;font-size:clamp(22px,3.6vw,30px);font-weight:700;border-lef
 .btn{display:inline-block;padding:8px 12px;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:#111;font-weight:700;background:#fff}
 .footer{padding:22px;text-align:center;color:#6b7280;border-top:1px solid var(--line);margin-top:28px}
 .notice{background:#eef2ff;border:1px solid #c7d2fe;border-radius:10px;padding:12px}
+.header img.no-contour {
+    border: 0;
+    outline: none;
+    box-shadow: none;
+    filter: none;
+  }
