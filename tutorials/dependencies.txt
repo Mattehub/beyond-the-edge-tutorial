@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+networkx
+numba
+pandas
+seaborn
+scikit-learn
+jax
+jax-tqdm
+xgi
+hoi
+
