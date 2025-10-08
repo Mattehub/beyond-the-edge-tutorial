@@ -36,6 +36,8 @@ To ensure the tutorials run smoothly, **please install the required packages** f
 
 **15:00–16:00** — Building hypergraph with measures of higher-order interdependencies (Matteo Neri)  
 **16:00–17:00** — Representing and analysing higher-order interaction
+**17:00–17:15** — Coffee break
+**17:15** — Presentation of the Hackathon and division into groups
 
 ### Hackathlon -- 10th October
 
