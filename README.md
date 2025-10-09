@@ -6,9 +6,9 @@
 
 ## Organizers
 
-[Fernando Santos](https://ias.uva.nl/community/fellows/current-fellows/marilyn-gatica.html), University of Amsterdam.  
+[Fernando Santos](https://scholar.google.fr/citations?user=UUCiHTAAAAAJ&hl=it&oi=sra), University of Amsterdam.  
 
-[Leonardo Di Gaetano](https://www.gbhi.org/profiles/carlos-coronel), Institute of Neuroscience of la Timone, Marseille, France.
+[Leonardo Di Gaetano](https://scholar.google.fr/citations?user=tnbH7oJ5hBoC&hl=it&oi=ao), Institute of Neuroscience of la Timone, Marseille, France.
 
 [Matteo Neri](https://scholar.google.com/citations?user=ubwQC-AAAAAJ&hl=it), Institute of Neuroscience of la Timone, Marseille, France.  
 

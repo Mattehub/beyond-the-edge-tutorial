@@ -10,4 +10,5 @@ jax
 jax-tqdm
 xgi
 hoi
+hypergraphx
 
