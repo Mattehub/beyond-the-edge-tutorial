@@ -1,0 +1,9311 @@
+[
+    {
+        "hypergraph_type": "Hypergraph",
+        "hypergraph_metadata": {
+            "weighted": true,
+            "type": "Hypergraph"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 1,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 939,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 55,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 170,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 255,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 275,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 364,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 374,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 101,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 425,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 179,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 202,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 63,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 265,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 494,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 205,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 894,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 122,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 70,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 132,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 779,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 545,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 252,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 117,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 346,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 39,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 871,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 778,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 883,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 196,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 106,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 272,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 119,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 240,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 447,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 649,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 199,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 653,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 587,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "node",
+        "idx": 626,
+        "metadata": {
+            "class": "2BIO3"
+        }
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            939
+        ],
+        "metadata": {},
+        "weight": 81
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            255
+        ],
+        "metadata": {},
+        "weight": 1588
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 2108
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            494
+        ],
+        "metadata": {},
+        "weight": 376
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            202
+        ],
+        "metadata": {},
+        "weight": 85
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            894
+        ],
+        "metadata": {},
+        "weight": 578
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            425
+        ],
+        "metadata": {},
+        "weight": 501
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            170
+        ],
+        "metadata": {},
+        "weight": 803
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            179
+        ],
+        "metadata": {},
+        "weight": 707
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132
+        ],
+        "metadata": {},
+        "weight": 605
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            545
+        ],
+        "metadata": {},
+        "weight": 962
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            374
+        ],
+        "metadata": {},
+        "weight": 15
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            202
+        ],
+        "metadata": {},
+        "weight": 72
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            779
+        ],
+        "metadata": {},
+        "weight": 771
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            55
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            364
+        ],
+        "metadata": {},
+        "weight": 702
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 560
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            871
+        ],
+        "metadata": {},
+        "weight": 954
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            778
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            779,
+            883
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            494
+        ],
+        "metadata": {},
+        "weight": 39
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            252
+        ],
+        "metadata": {},
+        "weight": 344
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            883
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            374
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            265
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            272
+        ],
+        "metadata": {},
+        "weight": 376
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            425
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            265,
+            494
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122
+        ],
+        "metadata": {},
+        "weight": 1202
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122
+        ],
+        "metadata": {},
+        "weight": 85
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            447
+        ],
+        "metadata": {},
+        "weight": 257
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 645
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            545,
+            649
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            265
+        ],
+        "metadata": {},
+        "weight": 678
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            346
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            883,
+            894
+        ],
+        "metadata": {},
+        "weight": 142
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            199
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            649
+        ],
+        "metadata": {},
+        "weight": 572
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            649,
+            778
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            883
+        ],
+        "metadata": {},
+        "weight": 50
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 48
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 285
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            649,
+            653
+        ],
+        "metadata": {},
+        "weight": 16
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            447
+        ],
+        "metadata": {},
+        "weight": 31
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            170,
+            202
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            170,
+            252
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            199
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            587
+        ],
+        "metadata": {},
+        "weight": 27
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            205
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            364
+        ],
+        "metadata": {},
+        "weight": 27
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 16
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252
+        ],
+        "metadata": {},
+        "weight": 26
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            117
+        ],
+        "metadata": {},
+        "weight": 99
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            119
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            202
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            240
+        ],
+        "metadata": {},
+        "weight": 256
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            255
+        ],
+        "metadata": {},
+        "weight": 38
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            202
+        ],
+        "metadata": {},
+        "weight": 45
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            883
+        ],
+        "metadata": {},
+        "weight": 60
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            272
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            447
+        ],
+        "metadata": {},
+        "weight": 99
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            240
+        ],
+        "metadata": {},
+        "weight": 98
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            587
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            494
+        ],
+        "metadata": {},
+        "weight": 48
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            252
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            779
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            252
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            117
+        ],
+        "metadata": {},
+        "weight": 18
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            778
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            939
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            587,
+            778
+        ],
+        "metadata": {},
+        "weight": 56
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            871
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            240
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            779,
+            871
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            119
+        ],
+        "metadata": {},
+        "weight": 31
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            170
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            374
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            494
+        ],
+        "metadata": {},
+        "weight": 113
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            196
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            447
+        ],
+        "metadata": {},
+        "weight": 59
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            170,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            272,
+            779,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            265
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252
+        ],
+        "metadata": {},
+        "weight": 271
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            778
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            894
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            119,
+            425
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            346
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196
+        ],
+        "metadata": {},
+        "weight": 184
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            205
+        ],
+        "metadata": {},
+        "weight": 37
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            117,
+            196
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            346
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 183
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            425
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            196
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240
+        ],
+        "metadata": {},
+        "weight": 333
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            871,
+            894
+        ],
+        "metadata": {},
+        "weight": 23
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            779,
+            894
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            871
+        ],
+        "metadata": {},
+        "weight": 15
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            894
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            779
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            894
+        ],
+        "metadata": {},
+        "weight": 29
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            364
+        ],
+        "metadata": {},
+        "weight": 271
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            778
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            587,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            179
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            587,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            275,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            779,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            779,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            364
+        ],
+        "metadata": {},
+        "weight": 48
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            170
+        ],
+        "metadata": {},
+        "weight": 40
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            779
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            179
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            894
+        ],
+        "metadata": {},
+        "weight": 265
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            272,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            272
+        ],
+        "metadata": {},
+        "weight": 23
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            871
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 16
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            939
+        ],
+        "metadata": {},
+        "weight": 19
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            939
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            179
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 76
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            272
+        ],
+        "metadata": {},
+        "weight": 48
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            196
+        ],
+        "metadata": {},
+        "weight": 34
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            196
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            196,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            871
+        ],
+        "metadata": {},
+        "weight": 33
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            170
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            778
+        ],
+        "metadata": {},
+        "weight": 291
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            170
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            196,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            494
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            587
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            939
+        ],
+        "metadata": {},
+        "weight": 34
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117
+        ],
+        "metadata": {},
+        "weight": 16
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            106
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252
+        ],
+        "metadata": {},
+        "weight": 34
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            106,
+            170
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            196,
+            252
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117,
+            364
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            252,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            494
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            170
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            778
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            871,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            252
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            778
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            778
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            778
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            106
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            494
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            871
+        ],
+        "metadata": {},
+        "weight": 54
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            871,
+            894
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            871
+        ],
+        "metadata": {},
+        "weight": 34
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            871
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            883
+        ],
+        "metadata": {},
+        "weight": 118
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            202
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205
+        ],
+        "metadata": {},
+        "weight": 33
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            494
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            545,
+            653
+        ],
+        "metadata": {},
+        "weight": 307
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            653
+        ],
+        "metadata": {},
+        "weight": 236
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            275
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            894
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            275
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            63
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            205
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            275
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            272
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            871
+        ],
+        "metadata": {},
+        "weight": 35
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            545,
+            653
+        ],
+        "metadata": {},
+        "weight": 32
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            871
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            106,
+            252
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            205
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            55,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117,
+            196
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117,
+            252
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            364
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            117,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            196
+        ],
+        "metadata": {},
+        "weight": 37
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            346
+        ],
+        "metadata": {},
+        "weight": 35
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            778
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            779
+        ],
+        "metadata": {},
+        "weight": 67
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            252,
+            346
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            346
+        ],
+        "metadata": {},
+        "weight": 271
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            779
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            252
+        ],
+        "metadata": {},
+        "weight": 47
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            374,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            101,
+            106
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            63,
+            101
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            939
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            778
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            778,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            179
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            374
+        ],
+        "metadata": {},
+        "weight": 111
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            778,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            649
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            364
+        ],
+        "metadata": {},
+        "weight": 84
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            346,
+            364
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            346,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            196,
+            364
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            205,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            199
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            196,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            199
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            939
+        ],
+        "metadata": {},
+        "weight": 149
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            170,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            179,
+            199
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            196
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            272
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            626
+        ],
+        "metadata": {},
+        "weight": 420
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            494,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            894
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            364
+        ],
+        "metadata": {},
+        "weight": 54
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            871
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            240
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            346
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            346
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            374
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            364
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            132
+        ],
+        "metadata": {},
+        "weight": 225
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            939
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            202
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            653
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            132,
+            202,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            649
+        ],
+        "metadata": {},
+        "weight": 427
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132
+        ],
+        "metadata": {},
+        "weight": 118
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            545
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            122
+        ],
+        "metadata": {},
+        "weight": 37
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            545,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            122,
+            132
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            199
+        ],
+        "metadata": {},
+        "weight": 834
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            132
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            653
+        ],
+        "metadata": {},
+        "weight": 19
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            272
+        ],
+        "metadata": {},
+        "weight": 31
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            275,
+            545,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            106,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            545,
+            653
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            275
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            272,
+            779
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            275,
+            653
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            122
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            779
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            275
+        ],
+        "metadata": {},
+        "weight": 30
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            649
+        ],
+        "metadata": {},
+        "weight": 38
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            272
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            447
+        ],
+        "metadata": {},
+        "weight": 222
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            447,
+            649
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            653
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            649
+        ],
+        "metadata": {},
+        "weight": 134
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            364
+        ],
+        "metadata": {},
+        "weight": 30
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            240
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            240,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205,
+            894
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            778
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            364
+        ],
+        "metadata": {},
+        "weight": 27
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            240
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            170
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            170,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            1,
+            179
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            117
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            275,
+            649
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            447,
+            649
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            779
+        ],
+        "metadata": {},
+        "weight": 36
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265
+        ],
+        "metadata": {},
+        "weight": 222
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            587,
+            883
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            545
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            587
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            425
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            587
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            447
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            447
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            649
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            447
+        ],
+        "metadata": {},
+        "weight": 202
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            883
+        ],
+        "metadata": {},
+        "weight": 229
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            649
+        ],
+        "metadata": {},
+        "weight": 27
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132,
+            447
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            425
+        ],
+        "metadata": {},
+        "weight": 61
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            649
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            132,
+            447
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            425
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            649
+        ],
+        "metadata": {},
+        "weight": 18
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            649
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            883
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            196,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            626
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            179
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            939
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            196
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            425,
+            649
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            626,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 18
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            252,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            778
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            199
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            202
+        ],
+        "metadata": {},
+        "weight": 18
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            202,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            117,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            122
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            447
+        ],
+        "metadata": {},
+        "weight": 41
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            778
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            653
+        ],
+        "metadata": {},
+        "weight": 104
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            447
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            653
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            778
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            275
+        ],
+        "metadata": {},
+        "weight": 118
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            255
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            425
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            252,
+            265
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117,
+            252
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            425,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            425,
+            447
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            119,
+            240
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            447
+        ],
+        "metadata": {},
+        "weight": 17
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117,
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            240,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117,
+            252,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            272
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            883,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            883,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            883,
+            939
+        ],
+        "metadata": {},
+        "weight": 25
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            252,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            364,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            779,
+            939
+        ],
+        "metadata": {},
+        "weight": 108
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            364,
+            374,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            649,
+            939
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            649,
+            939
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            649,
+            883
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            653
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            778
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            240,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            374,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            202,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            202,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            240
+        ],
+        "metadata": {},
+        "weight": 64
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            117,
+            196
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            778
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            883
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            240
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            649
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            199
+        ],
+        "metadata": {},
+        "weight": 42
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            179
+        ],
+        "metadata": {},
+        "weight": 62
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            199
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            252
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            202,
+            779
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            545
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            117,
+            272
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            199,
+            272
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            119
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            374
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 54
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            101
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            199,
+            255
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            653
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            199
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            255
+        ],
+        "metadata": {},
+        "weight": 18
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            275
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 135
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            202
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            255
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            106
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            252,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            545,
+            778
+        ],
+        "metadata": {},
+        "weight": 137
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            374
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            778
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            346
+        ],
+        "metadata": {},
+        "weight": 34
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            106
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            374
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            653
+        ],
+        "metadata": {},
+        "weight": 47
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            346
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            179,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            275,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            255
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            653
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            205
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            272
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            202
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            275,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            374,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            653
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            132
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            494,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 19
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            252,
+            272
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            939
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            494,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            883
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            778
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            894
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            202
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            939
+        ],
+        "metadata": {},
+        "weight": 37
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            494
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            364,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            939
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            364,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            894
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            179
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            196
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 29
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            653
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            199
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            265,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            447
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            447
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            199
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            653
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            778
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            202,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            653
+        ],
+        "metadata": {},
+        "weight": 43
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            364,
+            894
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            374
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            346
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            779
+        ],
+        "metadata": {},
+        "weight": 14
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            364
+        ],
+        "metadata": {},
+        "weight": 30
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            272
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            374
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            199,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            894
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            272,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            346
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            778,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            272
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            272,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            179,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            265
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            494
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            265
+        ],
+        "metadata": {},
+        "weight": 13
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            265,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            894
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132,
+            255
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            653
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            649,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            871,
+            883
+        ],
+        "metadata": {},
+        "weight": 41
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            871,
+            939
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            205,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            871,
+            883,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            894
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            205
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            545,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            170,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            545,
+            894
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            939
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            871,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            939
+        ],
+        "metadata": {},
+        "weight": 36
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            122
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            179
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            778
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            779
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            494
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            871
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            179,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            871
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            871
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            871
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            871
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            272
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            939
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            894
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            275
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            779,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            626,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            364,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            626
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            364,
+            626
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 24
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            240,
+            364
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            240,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            240
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            364,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            425
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            364
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            447
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            122,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            265
+        ],
+        "metadata": {},
+        "weight": 22
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            122,
+            425,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            101,
+            122
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            101,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            122,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            196,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            653
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            425
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            240
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            119,
+            122,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            240
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            205,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            106,
+            265
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            425
+        ],
+        "metadata": {},
+        "weight": 258
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            545,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            205,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            240
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            240,
+            255
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            202
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            275
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            275,
+            447
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            255
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            132,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            240
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            447
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            252,
+            587
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            205,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            346
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            106
+        ],
+        "metadata": {},
+        "weight": 19
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            653
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            265,
+            364
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            447
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            106,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            778,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            132,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            265,
+            545
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            132,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            364,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            179
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            199,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            275
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            939
+        ],
+        "metadata": {},
+        "weight": 291
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            346,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            240,
+            346,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            205
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            346,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            346
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            425,
+            649
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            240
+        ],
+        "metadata": {},
+        "weight": 37
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            202
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            265
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            202,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            494
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            205
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            196,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            196,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            364,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            240
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            871
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            101
+        ],
+        "metadata": {},
+        "weight": 11
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            626
+        ],
+        "metadata": {},
+        "weight": 21
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            425,
+            649
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            170
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            894
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            240,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            494,
+            894
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            205,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            447,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            272
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            779
+        ],
+        "metadata": {},
+        "weight": 33
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            132,
+            653
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            202,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            252,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            447
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            119,
+            199
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            119
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            587
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            545
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            587,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            272
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            626,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            240,
+            894
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            272
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            240,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            132,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            240
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            894,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            545
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            778
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            196,
+            240
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            346,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            196,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            545
+        ],
+        "metadata": {},
+        "weight": 27
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            587
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205,
+            494,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            196
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            240,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            272
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            106,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            778
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            106
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            240
+        ],
+        "metadata": {},
+        "weight": 20
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            346
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            272
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            265
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            265,
+            779
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            883
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            779,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            447
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            425
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            255,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            265
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            447
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            649
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            587
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            255
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            122,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            587
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            779
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            779
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            122,
+            132
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            883
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            778,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            272,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            883
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            101,
+            199
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            778,
+            871,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            272,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            196,
+            778
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            871,
+            883
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            871,
+            883
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            205,
+            883
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            871,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            883,
+            894
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            778,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            122
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            272,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            649
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199,
+            240,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            240,
+            649
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            240,
+            649
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            205
+        ],
+        "metadata": {},
+        "weight": 6
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            778,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            346
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            240,
+            425
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            101,
+            240
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            265,
+            494,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            101,
+            240,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            122,
+            179
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            119
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            653
+        ],
+        "metadata": {},
+        "weight": 12
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            132
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            132
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            425
+        ],
+        "metadata": {},
+        "weight": 36
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            494
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            70
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            346,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            199,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            275
+        ],
+        "metadata": {},
+        "weight": 10
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            101
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            275,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            252,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            252,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            275,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            425
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            272,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            272,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            179,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            106,
+            179
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            119,
+            122
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            364,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            122,
+            255
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            196,
+            265
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            199,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            199,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            240,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            132,
+            272
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            255,
+            275
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            626
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            272
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            871
+        ],
+        "metadata": {},
+        "weight": 45
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            939
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            871,
+            939
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            447,
+            653,
+            871
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            272
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            447,
+            871
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            653,
+            871
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            653
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            255
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            272,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            265,
+            272
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            272,
+            871
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            170,
+            196,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            265,
+            883
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            545,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            545
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            252
+        ],
+        "metadata": {},
+        "weight": 8
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            626
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            275,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            626,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            255
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            119,
+            196
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            199,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            272,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252,
+            494
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            346
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            252,
+            265,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            364,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            240,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            196,
+            494,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            494,
+            871,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            196,
+            871
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            106,
+            119
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            626
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            117,
+            346
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            199
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            425,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            240,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            122
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            196
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            252,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            275,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            63
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            252,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            265,
+            653
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            205,
+            255
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            205,
+            649
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            205
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            364,
+            447
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            240,
+            364,
+            447
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            202,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            425
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            101
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            240
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            425,
+            447
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            425,
+            447
+        ],
+        "metadata": {},
+        "weight": 9
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            252
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            252,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            199,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            653,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            346,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            55,
+            779,
+            883
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            101,
+            252,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            63,
+            122,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            272
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            255,
+            425
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            179,
+            255
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            170
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            119,
+            364
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            240,
+            447
+        ],
+        "metadata": {},
+        "weight": 3
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            252,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            374,
+            649
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            240,
+            779
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            70,
+            374
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            39,
+            122,
+            265
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            255,
+            939
+        ],
+        "metadata": {},
+        "weight": 2
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            275,
+            939
+        ],
+        "metadata": {},
+        "weight": 7
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            364,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            275
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            272,
+            939
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            106,
+            272,
+            626
+        ],
+        "metadata": {},
+        "weight": 1
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            272,
+            626,
+            939
+        ],
+        "metadata": {},
+        "weight": 4
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            117,
+            626,
+            939
+        ],
+        "metadata": {},
+        "weight": 5
+    },
+    {
+        "type": "edge",
+        "interaction": [
+            132,
+            196
+        ],
+        "metadata": {},
+        "weight": 6
+    }
+]
